@@ -41,22 +41,29 @@ Getting Started:
 --- 
 * Create a repository in [github](https://docs.github.com/en/get-started/quickstart/create-a-repo) with the desired name of your App or project.
 
-* Once my github repository was created, click the green Gitpod [sign](assets/images/gitpod workspace.png)
+* Once your github repository is created, click the green Gitpod [button.](https://github.com/Flow-matic/Crypto-Price-App/blob/main/assets/images/gitpod%20workspace.png?raw=true) This will automatically start creating your workspace environment.
 
+* Gitpod enviroment is used to write your code for your App then gets pushed to Github.
+
+* Once the folowing steps have been taking, head over to streamlit and sign in using your Github account.
 
 * Getting your workspace set up with Streamlit Cloud only takes a few minutes.
 
 * Once you've signed up, login to [streamlit.io](https://streamlit.io/) 
 
-* You can login to Streamlit Cloud with [github.com](https://github.com/)
+* Login to Streamlit Cloud with [github.com](https://github.com/)
 
   1) Visit [share.streamlit.io](https://share.streamlit.io/) and click the "Continue with GitHub" [button.](assets/images/github-signin-1.png)
 
   2) On the next page, enter your GitHub credentials to [sign in.](assets/images/github-signin-2.png)
 
-  3) Once you have signed in to GitHub, you will be taken to your Streamlit Cloud [workspace](assets/images/app-workspace.png)
+  3) Once you have signed in to GitHub, you will be taken to your Streamlit Cloud [workspace.](assets/images/app-workspace.png)
+
+* The [blue](assets/images/app-workspace.png) button in the top right corner, once you click it, Streamlit will start to install all dependencies for your App
 
 * Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app. 
+
+* Your GitHub repository is the source for the app, so that means that any time you push an update to your repo you'll see it reflected in the app in almost real time. 
 
 
 
