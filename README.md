@@ -43,7 +43,7 @@ Getting Started:
 
 * Once your github repository is created, click the green Gitpod [button.](https://github.com/Flow-matic/Crypto-Price-App/blob/main/assets/images/gitpod%20workspace.png?raw=true) This will automatically start creating your workspace environment.
 
-* Gitpod enviroment is used to write your code for your App then gets pushed to Github.
+* [Gitpod](https://www.gitpod.io/) enviroment is used to write your code for your App then gets pushed to Github.
 
 * Once the folowing steps have been taking, head over to streamlit and sign in using your Github account.
 
@@ -64,6 +64,8 @@ Getting Started:
 * Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app. 
 
 * Your GitHub repository is the source for the app, so that means that any time you push an update to your repo you'll see it reflected in the app in almost real time. 
+
+* More information can be found in the [documentation’s.](https://docs.streamlit.io/)
 
 
 
