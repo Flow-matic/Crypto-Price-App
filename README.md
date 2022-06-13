@@ -67,5 +67,19 @@ Getting Started:
 
 * More information can be found in the [documentation’s.](https://docs.streamlit.io/)
 
+--- 
+
+Getting Your Binance API
+---
+
+* What is an API and examples?
+
+  * API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+
+* Creating an API allows you to connect to Binance’s servers via several programming languages. Data can be pulled from Binance and interacted with in external applications. You can view your current wallet and transaction data, make trades, and deposit and withdraw your funds in third-party programs.
+
+* 
+
+
 
 
