@@ -39,6 +39,11 @@ ___
 
 Getting Started:
 --- 
+* Create a repository in [github](https://docs.github.com/en/get-started/quickstart/create-a-repo) with the desired name of your App or project.
+
+* Once my github repository was created, click the green Gitpod [sign](assets/images/gitpod workspace.png)
+
+
 * Getting your workspace set up with Streamlit Cloud only takes a few minutes.
 
 * Once you've signed up, login to [streamlit.io](https://streamlit.io/) 
@@ -50,6 +55,8 @@ Getting Started:
   2) On the next page, enter your GitHub credentials to [sign in.](assets/images/github-signin-2.png)
 
   3) Once you have signed in to GitHub, you will be taken to your Streamlit Cloud [workspace](assets/images/app-workspace.png)
+
+* Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app. 
 
 
 
