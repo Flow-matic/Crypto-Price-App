@@ -68,17 +68,38 @@ Getting Started:
 * More information can be found in the [documentation’s.](https://docs.streamlit.io/)
 
 --- 
+How to create a Binance account
+--- 
+* A Binance account acts as your gateway into crypto trading. But before you can buy your first bitcoin or [BNB,](https://academy.binance.com/en/articles/what-is-bnb) you’ll need to open an account.
+
+* Head to the Binance [homepage](https://www.binance.com/en) and click [Register] in the top right corner.
+
+* Input your email address and choose a secure password. If you prefer, you can also sign up using your mobile number rather than email. If you’ve been given a referral code from a friend, now is also the time to enter it.
+
+* Follow the instructions for verifying your account by inputting the code sent to your email address or mobile number.
+
+* Once you’re verified, you should now be set up with your Binance account. You’re one step closer to buying cryptocurrency.
+
+___
 
 Getting Your Binance API
 ---
 
 * What is an API and examples?
 
-  * API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
+* API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API.
 
 * Creating an API allows you to connect to Binance’s servers via several programming languages. Data can be pulled from Binance and interacted with in external applications. You can view your current wallet and transaction data, make trades, and deposit and withdraw your funds in third-party programs.
 
-* 
+* After logging into your Binance account, click [API Management](https://www.binance.com/en/support/faq/360002502072) from the user center icon.
+
+* Enter a label/name for your API key and click [Create API.](https://www.binance.com/en/support/faq/360002502072)
+
+* Security tip: Before creating an API, you need to enable [two-factor authentication (2FA)](https://apps.apple.com/us/app/google-authenticator/id388497605) on your account.
+
+* Complete the [security](https://www.binance.com/en/support/faq/360002502072) verification with your registered 2FA devices.
+
+*  Your API is now created. Please keep your [Secret Key](https://www.binance.com/en/support/faq/360002502072) securely as will not be shown again. Do not share this key with anyone. If you forget your Secret Key, you will need to delete the API and create a new one.
 
 
 
