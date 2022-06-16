@@ -141,6 +141,8 @@ Research And Credits:
 
 * [Messari](https://messari.io/) Messari brings transparency to the cryptoeconomy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
 
+* [UseWeb3](https://www.useweb3.xyz/) is a platform for developers to explore and learn about Web3. Whether your a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
+
 
 
 
