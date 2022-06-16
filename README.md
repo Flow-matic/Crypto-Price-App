@@ -102,5 +102,18 @@ Getting Your Binance API
 *  Your API is now created. Please keep your [Secret Key](https://www.binance.com/en/support/faq/360002502072) securely as will not be shown again. Do not share this key with anyone. If you forget your Secret Key, you will need to delete the API and create a new one.
 
 
+___
+Sketch Chart Using Excalidraw:
+--- 
+
+ * [Excalidraw](https://excalidraw.com/) is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+
+
+ * Excalidraw comes with all the basic features you would expect to see in a drawing tool. It offers a wonderful selection of basic shapes and features. You can set the properties of the stroke and the fill, group objects, manage layers by bringing objects to the front or pushing them to the back. You can also add text, play with the arrowheads, draw freehand, add breakpoints to lines ... it is really hard to name a basic feature that is missing.
+
+ ![responsive design](assets/images/excalidraw.png)
+
+
+
 
 
