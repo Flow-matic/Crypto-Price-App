@@ -113,6 +113,34 @@ Sketch Chart Using Excalidraw:
 
  ![responsive design](assets/images/excalidraw.png)
 
+ ___
+Research And Credits:
+--- 
+
+* [Streamlit](https://streamlit.io/) A faster way to build and deploy data apps.
+
+* [Stack Overflow](https://stackoverflow.com/) solving other issues along the way to achieving the end result.
+
+* [YouTube](https://www.youtube.com/) for the endless videos on seeing how code looks and works from professional developers perspective.
+
+* [Google](http://www.google.com/) Search the world's information, including webpages, images, videos and more.
+
+* [Python standard library](https://docs.python.org/3/library/) is a collection of script modules accessible to a Python program to simplify the programming process and removing the need to rewrite commonly used commands.
+
+* [Binance Academy](https://academy.binance.com/en) Your one-stop guide to all things crypto. Whether you're a rookie trying to understand mining or a veteran looking to develop a trading strategy, we've got you covered.
+
+* [Blockchain.com Exchange APIs](https://www.blockchain.com/api) Explore the REST API documentation for detailed examples of the various functionality offered, such as receiving real-time market data, requesting balance information, and performing trades.
+
+* [CoinMarketCap](https://coinmarketcap.com/) Since its launch in 2013, CoinMarketCap has become one of the most powerful websites in the cryptocurrency space, being one of the most visited sites in the industry and a premier source of cryptocurrency market data. 
+
+* [Coinbase](https://www.coinbase.com/) Coinbase is a distributed company; all employees operate via remote work and the company lacks a physical headquarters. It is the largest cryptocurrency exchange in the United States by trading volume.
+
+* [Live Coin Watch](https://www.livecoinwatch.com/) Complete cryptocurrency market coverage with live coin prices, charts and crypto market cap featuring 17399 coins on 463 exchanges.
+
+* [CoinGecko](https://www.coingecko.com/) CoinGecko is the world’s largest independent cryptocurrency data aggregator with over 13,000+ different cryptoassets tracked across more than 500+ exchanges worldwide.
+
+* [Messari](https://messari.io/) Messari brings transparency to the cryptoeconomy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
+
 
 
 
