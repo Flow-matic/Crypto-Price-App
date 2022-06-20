@@ -181,13 +181,21 @@ Research And Credits:
 ___
 Helpful Resources To Continue Learning About Blockchain:
 ---
-- [Ethereum website](https://ethereum.org/)
-- [Bitcoin website](https://bitcoin.org/en/)
-- [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
-- [Solidity website](https://solidity.readthedocs.io/)
-- [Blockchain explorer](https://www.blockchain.com/explorer)
-- [Coinbase website](http://coinbase.com/)
-- [Truffle Suite website](https://www.trufflesuite.com/)
+- [Ethereum](https://ethereum.org/) is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+
+- [Bitcoin](https://bitcoin.org/en/) uses peer-to-peer technology to operate with no central authority or banks.
+
+- [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf) Satoshi Nakamoto's original paper is still recommended reading for anyone studying how Bitcoin works.
+
+- [Solidity](https://solidity.readthedocs.io/) is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state.
+
+- [Blockchain explorer](https://www.blockchain.com/explorer) believe that in a decade the financial system of the internet — that is, commerce that happens on the internet — will be the largest financial system in the world. And it will be powered by crypto.
+
+- [Coinbase](https://www.coinbase.com/learn) is a distributed company; all employees operate via remote work and the company lacks a physical headquarters.  
+
+- [Truffle Suite](https://www.trufflesuite.com/) A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
+
+- [Ganache](https://trufflesuite.com/ganache/) Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 
 
 
