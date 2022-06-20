@@ -114,6 +114,33 @@ Sketch Chart Using Excalidraw:
  ![responsive design](assets/images/excalidraw.png)
 
 ___
+Reason Behind Building This App:
+---
+
+When I was growing up I always had an interest in technology, whilst working most of my adult life in a totally different industry.
+
+Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?
+Each new year (and sometimes month!) gives me the excuse to reflect on what I’m doing with my life and what I’ve done since the last milestone. Am I excited to do what I’m doing every day? And if not, is it me, or something else?
+
+85% of people are unhappy in their jobs, and I have to addmit I'am one of them. That is until I’ve finally found my passion.
+
+And that's in Blockchain Technology, Cryptocurrency, Smart contracts and Web3.
+
+When we discuss blockchain technology, we are often talking about a collection of disciplines including cryptography, distributed systems design, economics, game theory and many others.
+
+Blockchain technology, in practice, is not a singular thing, as it intersects with all manner of industries and technologies. This is what makes it a compelling technological movement.
+
+While cryptocurrencies are the most widely acknowledged and discussed use case of blockchain, there are other non-financial use cases such as supply-chain provenance and digital identity that make it a compelling solution in all manner of fields.
+
+___
+“Life is a game,
+you live so you play.
+Follow your dreams and win what your happy heart desires.
+
+---
+![responsive design](assets/images/dino.gif)
+
+___
 Research And Credits:
 --- 
 
@@ -142,34 +169,6 @@ Research And Credits:
 * [Messari](https://messari.io/) Messari brings transparency to the cryptoeconomy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
 
 * [UseWeb3](https://www.useweb3.xyz/) is a platform for developers to explore and learn about Web3. Whether your a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
-
-
-___
-Reason Behind Building This App:
----
-
-When I was growing up I always had an interest in technology, whilst working most of my adult life in a totally different industry.
-
-Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?
-Each new year (and sometimes month!) gives me the excuse to reflect on what I’m doing with my life and what I’ve done since the last milestone. Am I excited to do what I’m doing every day? And if not, is it me, or something else?
-
-85% of people are unhappy in their jobs, and I have to addmit I'am one of them. That is until I’ve finally found my passion.
-
-And that's in Blockchain Technology, Cryptocurrency, Smart contracts and Web3.
-
-When we discuss blockchain technology, we are often talking about a collection of disciplines including cryptography, distributed systems design, economics, game theory and many others.
-
-Blockchain technology, in practice, is not a singular thing, as it intersects with all manner of industries and technologies. This is what makes it a compelling technological movement.
-
-While cryptocurrencies are the most widely acknowledged and discussed use case of blockchain, there are other non-financial use cases such as supply-chain provenance and digital identity that make it a compelling solution in all manner of fields.
-
-___
-“Life is a game,
-you live so you play.
-Follow your dreams and win what your happy heart desires.
-
----
-![responsive design](assets/images/dino.gif)
 
 
 
