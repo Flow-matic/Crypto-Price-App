@@ -114,6 +114,12 @@ Sketch Chart Using Excalidraw:
  ![responsive design](assets/images/excalidraw.png)
 
 ___
+Feature Enhancements:
+---
+
+* 
+
+___
 Reason Behind Building This App:
 ---
 
@@ -169,6 +175,19 @@ Research And Credits:
 * [Messari](https://messari.io/) Messari brings transparency to the cryptoeconomy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
 
 * [UseWeb3](https://www.useweb3.xyz/) is a platform for developers to explore and learn about Web3. Whether your a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
+
+* [Best Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. 
+
+___
+Helpful Resources To Continue Learning About Blockchain:
+---
+- [Ethereum website](https://ethereum.org/)
+- [Bitcoin website](https://bitcoin.org/en/)
+- [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Solidity website](https://solidity.readthedocs.io/)
+- [Blockchain explorer](https://www.blockchain.com/explorer)
+- [Coinbase website](http://coinbase.com/)
+- [Truffle Suite website](https://www.trufflesuite.com/)
 
 
 
