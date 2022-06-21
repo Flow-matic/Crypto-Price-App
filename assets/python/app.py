@@ -34,5 +34,17 @@ col7_selection = st.sidebar.selectbox('Price 7', df.symbol, list(df.symbol).inde
 col8_selection = st.sidebar.selectbox('Price 8', df.symbol, list(df.symbol).index('DOTBUSD') )
 col9_selection = st.sidebar.selectbox('Price 9', df.symbol, list(df.symbol).index('MATICBUSD') )
 
+# DataFrame of selected Cryptocurrency
+
+col1_df = df[df.symbol == col1_selection]
+col2_df = df[df.symbol == col2_selection]
+col3_df = df[df.symbol == col3_selection]
+col4_df = df[df.symbol == col4_selection]
+col5_df = df[df.symbol == col5_selection]
+col6_df = df[df.symbol == col6_selection]
+col7_df = df[df.symbol == col7_selection]
+col8_df = df[df.symbol == col8_selection]
+col9_df = df[df.symbol == col9_selection]
+
 
 
