@@ -70,6 +70,17 @@ col7_percent = f'{float(col7_fd.priceChangePercent)}%'
 col8_percent = f'{float(col8_df.priceChangePercent)}%'
 col9_percent = f'{float(col9_df.priceChangePercent)}%'
 
+# Create a metrics price box
+
+col1.metric(col1_selection, col1_price, col1_percent)
+col2.metric(col2_selection, col2_price, col2_percent)
+col3.metric(col3_selection, col3_price, col3_percent)
+col4.metric(col4_selection, col4_price, col4_percent)
+col5.metric(col5_selection, col5_price, col5_percent)
+col6.metric(col6_selection, col6_price, col6_percent)
+col7.metric(col7_selection, col7_price, col7_percent)
+col8.metric(col8_selection, col8_price, col8_percent)
+col9.metric(col9_selection, col9_price, col9_percent)
 
 
 
