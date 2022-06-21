@@ -46,5 +46,19 @@ col7_df = df[df.symbol == col7_selection]
 col8_df = df[df.symbol == col8_selection]
 col9_df = df[df.symbol == col9_selection]
 
+# Apply a custom function to conditionally round values
+
+col1_price = round_value(col1_df.weightedAvgPrice)
+col2_price = round_value(col2_df.weightedAvgPrice)
+col3_price = round_value(col3_df.weightedAvgPrice)
+col4_price = round_value(col4_df.weightedAvgPrice)
+col5_price = round_value(col5_df.weightedAvgPrice)
+col6_price = round_value(col6_df.weightedAvgPrice)
+col7_price = round_value(col7_df.weightedAvgPrice)
+col8_price = round_value(col8_df.weightedAvgPrice)
+col9_price = round_value(col9_df.weightedAvgPrice)
+
+
+
 
 
