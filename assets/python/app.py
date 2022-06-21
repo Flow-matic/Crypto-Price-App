@@ -12,3 +12,12 @@ st.header('**Selected Prices')
 df = pd.read_json('https://api.binance.com/api/v3/ticker/24hr')
 
 # Custom function for rounding values
+
+def round_value(input_value):
+    if input_value.values > 1:
+        a = float(round(input_value, 2))
+    else:
+        a = float(round(input_value, 8))
+    return a
+
+    
