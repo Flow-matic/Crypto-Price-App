@@ -1,4 +1,4 @@
-import streamlit as st 
+import streamlit as st
 import pandas as pd
 
 st.markdown('''# **Binance Price App**
@@ -7,11 +7,12 @@ A cryptocurrency price app pulling price data from *Binance API*.
 
 st.header('**Selected Price**')
 
-# Load market data from Binance API 
+# Load market data from Binance API
 
 df = pd.read_json('https://api.binance.com/api/v3/ticker/24hr')
 
 # Custom function for rounding values
+
 
 def round_value(input_value):
     if input_value.values > 1:
@@ -19,6 +20,7 @@ def round_value(input_value):
     else:
         a = float(round(input_value, 8))
     return a
+
 
 cryptolist = {
     'Price 1': 'BTCBUSD',
@@ -36,8 +38,10 @@ col1, col2, col3 = st.columns(3)
 
 for i in range(len(cryptoList.keys())):
     selected_crypto_label = list(cryptoList.keys())[i]
-    selected_crypto_index = list(df.symbol).index(cryptoList[selected_crypto_label])
-    selected_crypto = st.sidebar.selectbox(selected_crypto_label, df.symbol, selected_crypto_index, key = str(1))
+    selected_crypto_index = list(df.symbol).index(
+        cryptoList[selected_crypto_label])
+    selected_crypto = st.sidebar.selectbox(
+        selected_crypto_label, df.symbol, selected_crypto_index, key=str(1))
     col_df = df[df.symbol == selected_crypto]
     col_price = round_value(col_df.weightedAvgPrice)
     col_percent = f'{float(col_df.priceChangePercent)}%'
@@ -51,4 +55,13 @@ for i in range(len(cryptoList.keys())):
         with col3:
             st.metric(selected_crypto, col_price, col_percent)
 
+st.header('**All Price**')
+st.dataframe(df)
 
+st.info('Created by Jonathan Vinson')
+
+st.markdown("""
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+""", unsafe_allow_html=True)
