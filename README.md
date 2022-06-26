@@ -127,6 +127,18 @@ Feature Enhancements To Add To The Cryptocurrency App:
    * Users should be able to withdraw or deposit amounts through email, QR code, ATM and transfer etc. Normally, trading and deposit of digital currencies happen without any account verification, but for withdrawing it is important to verify users’ accounts.
 
 ___
+App Was Tested On Various Browsers:
+---
+ 
+   * [Google Chrome](https://www.google.com/chrome/)
+
+   * [Internet explorer](https://www.microsoft.com/en-nz/download/internet-explorer.aspx)
+
+   * [safari](https://www.apple.com/nz/safari/)
+
+   * [Brave browser](https://brave.com/)
+
+___
 Research And Credits:
 --- 
 
@@ -177,6 +189,29 @@ Helpful Resources To Continue Learning About Blockchain:
 
 - [Ganache](https://trufflesuite.com/ganache/) Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 
+___
+Credits 
+--- 
+
+ Thanks and praises has to go to all of the below as I work through a career change, asking for help and guidance along the way is always a good starting point. 
+
+ Much like any other skill, learning how to code requires time and persistence. The difficulty will depend on the programming language itself and what kind of software you'd like to make.
+
+
+
+  * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games, and walkthrough guides during my project.
+
+  * Best CSS website i've recently discovered is [CSS Tricks](https://css-tricks.com/)
+
+  * My go to website is always [W3Schools](https://www.w3schools.com/)
+  
+  * [Stackoverflow](https://stackoverflow.com/) best answers to your technical question.
+
+  * [Wiki](https://en.wikipedia.org/wiki/Main_Page) Wikipedia is a free online encyclopedia.
+
+  * [Slack](https://slack.com/) for that extra push and always help.
+
+  * [MDN Web Docs](https://developer.mozilla.org/en-US/) best documentation on the web.
 
 ___
 Reason Behind Building This App:
