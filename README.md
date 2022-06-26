@@ -199,9 +199,7 @@ Credits
 
 
 
-  * I used [YouTube](https://www.youtube.com/) for information on Grid layouts with Tic Tac Toe games, and walkthrough guides during my project.
-
-  * Best CSS website i've recently discovered is [CSS Tricks](https://css-tricks.com/)
+  * I used [YouTube](https://www.youtube.com/) for information on Streamlit, and walkthrough guides during my project.
 
   * My go to website is always [W3Schools](https://www.w3schools.com/)
   
