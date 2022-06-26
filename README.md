@@ -9,7 +9,7 @@ This Project App was created using [Streamlit.](https://streamlit.io/)
 ![responsive design](assets/images/jeremy-bezanger-9opiHRPIvR0-unsplash.jpeg)
 
 
-[App can be found here ](https://flow-matic-crypto-price-streamlit-test-app-8woyz4.streamlitapp.com/)
+👉 [App can be found here ](https://flow-matic-crypto-price-streamlit-test-app-8woyz4.streamlitapp.com/)  👈
 
 ---
 Introduction to [Streamlit:](https://docs.streamlit.io/)
