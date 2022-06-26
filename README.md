@@ -2,7 +2,7 @@
 
 Cryptocurrency nowadays is in most demand and many people are investing in these currencies to get high returns. Many websites and applications provide us information about the rates of different cryptocurrencies availible in the crypto market. A crypto exchange API is a service to interface with cryptocurrency exchanges like [Binance.](https://www.binance.com/en) It allows users (either customers of the service or developers) to interface with cryptocurrency exchanges, execute trades, pull data, and receive data in real-time. 
 
-This Project App was created using [Streamlit.](https://streamlit.io/)
+This Project App was created using [Streamlit.](https://flow-matic-crypto-price-streamlit-test-app-8woyz4.streamlitapp.com/)
 
 ---
 
@@ -118,40 +118,13 @@ Feature Enhancements To Add To The Cryptocurrency App:
 ---
 
 * User authorization and verification:
-  * Provide users with a simple and interactive onboarding experience. Also, note that verification is an important part of crypto apps to minimize the chances of fraud and maintain the transparency of transactions. In order to ensure users with complete safety of data, must integrate by adding to the app a two-factor authentication and anti-bot verification.
+  * Provide users with a simple and interactive onboarding experience. Also, note that verification is an important part of crypto apps to minimize the chances of fraud and maintain the transparency of trnsactions. In order to ensure users with complete safety of data, must integrate by adding to the app a two-factor authentication and anti-bot verification.
 
 * Wallet:
   * By adding a wallet, this will allow users to send, store and receive virtual currency. The more cryptocurrencies the wallet is integrated with, the better.
    * Integrate multi-wallet functionality to support various types of transactions.
    * Integration with leading banks and payment gateways is a must to buy and sell cryptocurrency in real-time.
    * Users should be able to withdraw or deposit amounts through email, QR code, ATM and transfer etc. Normally, trading and deposit of digital currencies happen without any account verification, but for withdrawing it is important to verify users’ accounts.
-
-___
-Reason Behind Building This App:
----
-
-When I was growing up I always had an interest in technology, whilst working most of my adult life in a totally different industry.
-
-Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?
-Each new year (and sometimes month!) gives me the excuse to reflect on what I’m doing with my life and what I’ve done since the last milestone. Am I excited to do what I’m doing every day? And if not, is it me, or something else?
-
-85% of people are unhappy in their jobs, and I have to addmit I'am one of them. That is until I’ve finally found my passion.
-
-And that's in Blockchain Technology, Cryptocurrency, Smart contracts and Web3.
-
-When we discuss blockchain technology, we are often talking about a collection of disciplines including cryptography, distributed systems design, economics, game theory and many others.
-
-Blockchain technology, in practice, is not a singular thing, as it intersects with all manner of industries and technologies. This is what makes it a compelling technological movement.
-
-While cryptocurrencies are the most widely acknowledged and discussed use case of blockchain, there are other non-financial use cases such as supply-chain provenance and digital identity that make it a compelling solution in all manner of fields.
-
-___
-
-![responsive design](assets/images/dino.gif)
----
-“Life is a game,
-you live so you play.
-Follow your dreams and win what your happy heart desires.
 
 ___
 Research And Credits:
@@ -205,6 +178,31 @@ Helpful Resources To Continue Learning About Blockchain:
 - [Ganache](https://trufflesuite.com/ganache/) Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 
 
+___
+Reason Behind Building This App:
+---
 
+When I was growing up I always had an interest in technology, whilst working most of my adult life in a totally different industry.
+
+Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?
+Each new year (and sometimes month!) gives me the excuse to reflect on what I’m doing with my life and what I’ve done since the last milestone. Am I excited to do what I’m doing every day? And if not, is it me, or something else?
+
+85% of people are unhappy in their jobs, and I have to addmit I'am one of them. That is until I’ve finally found my passion.
+
+And that's in Blockchain Technology, Cryptocurrency, Smart contracts and Web3.
+
+When we discuss blockchain technology, we are often talking about a collection of disciplines including cryptography, distributed systems design, economics, game theory and many others.
+
+Blockchain technology, in practice, is not a singular thing, as it intersects with all manner of industries and technologies. This is what makes it a compelling technological movement.
+
+While cryptocurrencies are the most widely acknowledged and discussed use case of blockchain, there are other non-financial use cases such as supply-chain provenance and digital identity that make it a compelling solution in all manner of fields.
+
+___
+
+![responsive design](assets/images/dino.gif)
+---
+“Life is a game,
+you live so you play.
+Follow your dreams and win what your happy heart desires.
 
 
