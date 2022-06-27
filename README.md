@@ -1,6 +1,6 @@
 # Crypto Price App
 
-Cryptocurrency nowadays is in most demand and many people are investing in these currencies to get high returns. Many websites and applications provide us information about the rates of different cryptocurrencies availible in the crypto market. A crypto exchange API is a service to interface with cryptocurrency exchanges like [Binance.](https://www.binance.com/en) It allows users (either customers of the service or developers) to interface with cryptocurrency exchanges, execute trades, pull data, and receive data in real-time. 
+Cryptocurrency nowadays is in most demand and many people are investing in these currencies to get high returns. Many websites and applications provide us information about the rates of different cryptocurrencies available in the crypto market. A crypto exchange API is a service to interface with cryptocurrency exchanges like [Binance.](https://www.binance.com/en) It allows users (either customers of the service or developers) to interface with cryptocurrency exchanges, execute trades, pull data, and receive data in real-time. 
 
 This Project App was created using [Streamlit.](https://streamlit.io/)
 
@@ -18,7 +18,7 @@ Introduction to [Streamlit:](https://docs.streamlit.io/)
 
 * Streamlit is an open-source python library for creating and sharing web apps for data science and machine learning projects. The library can help you create and deploy your data science solution with a few lines of code.
 
-* Streamlit can seamlessly intergrate with other popular python libaries used in data science such as [Numpy,](https://numpy.org/) [Pandas,](https://pandas.pydata.org/) [Matplotlib,](https://matplotlib.org/) [Scikit-learn](https://scikit-learn.org/stable/) and many more.
+* Streamlit can seamlessly integrate with other popular python libraries used in data science such as [Numpy,](https://numpy.org/) [Pandas,](https://pandas.pydata.org/) [Matplotlib,](https://matplotlib.org/) [Scikit-learn](https://scikit-learn.org/stable/) and many more.
 
 * Streamlit uses [React](https://reactjs.org/) as a frontend framework to render the data on the screen.
 
@@ -33,7 +33,7 @@ Streamlit cloud:
 
 * Streamlit Cloud is a workspace for your team to deploy, manage, and collaborate on your Streamlit apps. You connect your Streamlit Cloud account directly to your GitHub repository (public or private) and then Streamlit Cloud launches the apps directly from the code you've stored on GitHub. Most apps will launch in only a few minutes, and any time you update the code on GitHub, your app will automatically update for you. This creates a fast iteration cycle for your deployed apps, so that developers and viewers of apps can rapidly prototype, explore, and update apps.
 
-* Under the hood Streamlit Cloud handles all of the containerization, authentication, scaling, security and everything else so that all you need to worry about is creating the app. Maintaining Streamlit apps is easy. Containers get the latest security patches, are actively monitored for container health. 
+* Under the hood Streamlit Cloud handles all of the containerisation, authentication, scaling, security and everything else so that all you need to worry about is creating the app. Maintaining Streamlit apps is easy. Containers get the latest security patches, are actively monitored for container health. 
 
 ___
 
@@ -43,9 +43,9 @@ Getting Started:
 
 * Once your github repository is created, click the green Gitpod [button.](https://github.com/Flow-matic/Crypto-Price-App/blob/main/assets/images/gitpod%20workspace.png?raw=true) This will automatically start creating your workspace environment.
 
-* [Gitpod](https://www.gitpod.io/) enviroment is used to write your code for your App then gets pushed to Github.
+* [Gitpod](https://www.gitpod.io/) environment is used to write your code for your App then gets pushed to Github.
 
-* Once the folowing steps have been taking, head over to streamlit and sign in using your Github account.
+* Once the following steps have been taking, head over to streamlit and sign in using your Github account.
 
 * Getting your workspace set up with Streamlit Cloud only takes a few minutes.
 
@@ -91,7 +91,7 @@ Getting Your Binance API
 
 * Creating an API allows you to connect to Binance’s servers via several programming languages. Data can be pulled from Binance and interacted with in external applications. You can view your current wallet and transaction data, make trades, and deposit and withdraw your funds in third-party programs.
 
-* After logging into your Binance account, click [API Management](https://www.binance.com/en/support/faq/360002502072) from the user center icon.
+* After logging into your Binance account, click [API Management](https://www.binance.com/en/support/faq/360002502072) from the user centre icon.
 
 * Enter a label/name for your API key and click [Create API.](https://www.binance.com/en/support/faq/360002502072)
 
@@ -117,8 +117,8 @@ ___
 Feature Enhancements To Add To The Cryptocurrency App:
 ---
 
-* User authorization and verification:
-  * Provide users with a simple and interactive onboarding experience. Also, note that verification is an important part of crypto apps to minimize the chances of fraud and maintain the transparency of trnsactions. In order to ensure users with complete safety of data, must integrate by adding to the app a two-factor authentication and anti-bot verification.
+* User authorisation and verification:
+  * Provide users with a simple and interactive onboarding experience. Also, note that verification is an important part of crypto apps to minimise the chances of fraud and maintain the transparency of transactions. In order to ensure users with complete safety of data, must integrate by adding to the app a two-factor authentication and anti-bot verification.
 
 * Wallet:
   * By adding a wallet, this will allow users to send, store and receive virtual currency. The more cryptocurrencies the wallet is integrated with, the better.
@@ -149,7 +149,7 @@ Testing The App:
 --- 
    * Testing was done, by sending the app to friends and family as well as links posted on various social media platforms.
 
-   * As of submitting my project 4, I have contacted Streamlit through [email](assets/images/Email from streamlit.png) for information regarding testing the code, as previous projects I used Python Tutor, and was unable to use it during this time.
+   * As of submitting my project 4, I have contacted Streamlit through [email](https://github.com/Flow-matic/Crypto-Price-App/blob/main/assets/images/Email%20from%20streamlit.png?raw=true) for information regarding testing the code, as previous projects I used Python Tutor, and was unable to use it during this time. 🙈
 ___
 Research And Credits:
 --- 
@@ -174,18 +174,18 @@ Research And Credits:
 
 * [Live Coin Watch](https://www.livecoinwatch.com/) Complete cryptocurrency market coverage with live coin prices, charts and crypto market cap featuring 17399 coins on 463 exchanges.
 
-* [CoinGecko](https://www.coingecko.com/) CoinGecko is the world’s largest independent cryptocurrency data aggregator with over 13,000+ different cryptoassets tracked across more than 500+ exchanges worldwide.
+* [CoinGecko](https://www.coingecko.com/) CoinGecko is the world’s largest independent cryptocurrency data aggregator with over 13,000+ different crypto-assets tracked across more than 500+ exchanges worldwide.
 
-* [Messari](https://messari.io/) Messari brings transparency to the cryptoeconomy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
+* [Messari](https://messari.io/) Messari brings transparency to the crypto-economy. Messari provides crypto market intelligence products that help professionals navigate crypto/Web3.
 
-* [UseWeb3](https://www.useweb3.xyz/) is a platform for developers to explore and learn about Web3. Whether your a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
+* [UseWeb3](https://www.useweb3.xyz/) is a platform for developers to explore and learn about Web3. Whether you're a new dev getting your hands dirty for the first time, or a seasoned developer making the transition into the Web3 space.
 
 * [Best Websites For Programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) you must know to get always informed to do your technologies even better and learn new things. Here is a non-exhaustive list of some sites you should visit. 
 
 ___
 Helpful Resources To Continue Learning About Blockchain:
 ---
-- [Ethereum](https://ethereum.org/) is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+- [Ethereum](https://ethereum.org/) is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralised applications.
 
 - [Bitcoin](https://bitcoin.org/en/) uses peer-to-peer technology to operate with no central authority or banks.
 
@@ -232,7 +232,7 @@ When I was growing up I always had an interest in technology, whilst working mos
 Ask yourself: If you could do anything for 8 hours a day for the rest of your life, and money were no object, what would you do?
 Each new year (and sometimes month!) gives me the excuse to reflect on what I’m doing with my life and what I’ve done since the last milestone. Am I excited to do what I’m doing every day? And if not, is it me, or something else?
 
-85% of people are unhappy in their jobs, and I have to addmit I'am one of them. That is until I’ve finally found my passion.
+85% of people are unhappy in their jobs, and I have to admit I'am one of them. That is until I’ve finally found my passion.
 
 And that's in Blockchain Technology, Cryptocurrency, Smart contracts and Web3.
 
