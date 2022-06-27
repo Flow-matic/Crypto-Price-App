@@ -139,6 +139,11 @@ App Was Tested On Various Browsers:
    * [Brave browser](https://brave.com/)
 
 ___
+Testing The App:
+--- 
+   * Testing was done, by sending the app to friends and family as well as links posted on various social media platforms.
+
+___
 Research And Credits:
 --- 
 
