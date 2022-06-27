@@ -13,7 +13,6 @@ df = pd.read_json('https://api.binance.com/api/v3/ticker/24hr')
 
 # Custom function for rounding values
 
-
 def round_value(input_value):
     if input_value.values > 1:
         a = float(round(input_value, 2))
@@ -21,8 +20,7 @@ def round_value(input_value):
         a = float(round(input_value, 8))
     return a
 
-
-cryptolist = {
+crpytoList = {
     'Price 1': 'BTCBUSD',
     'Price 2': 'ETHBUSD',
     'Price 3': 'BNBBUSD',
@@ -36,12 +34,10 @@ cryptolist = {
 
 col1, col2, col3 = st.columns(3)
 
-for i in range(len(cryptoList.keys())):
-    selected_crypto_label = list(cryptoList.keys())[i]
-    selected_crypto_index = list(df.symbol).index(
-        cryptoList[selected_crypto_label])
-    selected_crypto = st.sidebar.selectbox(
-        selected_crypto_label, df.symbol, selected_crypto_index, key=str(1))
+for i in range(len(crpytoList.keys())):
+    selected_crypto_label = list(crpytoList.keys())[i]
+    selected_crypto_index = list(df.symbol).index(crpytoList[selected_crypto_label])
+    selected_crypto = st.sidebar.selectbox(selected_crypto_label, df.symbol, selected_crypto_index, key = str(i))
     col_df = df[df.symbol == selected_crypto]
     col_price = round_value(col_df.weightedAvgPrice)
     col_percent = f'{float(col_df.priceChangePercent)}%'
@@ -58,7 +54,7 @@ for i in range(len(cryptoList.keys())):
 st.header('**All Price**')
 st.dataframe(df)
 
-st.info('Created by Jonathan Vinson')
+st.info('Created by Jonathan Vinson)')
 
 st.markdown("""
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
