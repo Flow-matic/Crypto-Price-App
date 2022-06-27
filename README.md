@@ -127,6 +127,12 @@ Feature Enhancements To Add To The Cryptocurrency App:
    * Users should be able to withdraw or deposit amounts through email, QR code, ATM and transfer etc. Normally, trading and deposit of digital currencies happen without any account verification, but for withdrawing it is important to verify users’ accounts.
 
 ___
+
+https://user-images.githubusercontent.com/90872113/176017830-2c185fcc-5877-4cae-9279-f8e07e453377.mp4
+
+___
+
+___
 App Was Tested On Various Browsers:
 ---
  
