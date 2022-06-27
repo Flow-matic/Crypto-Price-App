@@ -5,7 +5,7 @@ st.markdown('''# **Binance Price App**
 A cryptocurrency price app pulling price data from *Binance API*.
 ''')
 
-st.header('**Selected Prices')
+st.header('**Selected Prices**')
 
 # Load market data from Binance API
 
