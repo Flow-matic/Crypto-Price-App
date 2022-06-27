@@ -149,7 +149,7 @@ Testing The App:
 --- 
    * Testing was done, by sending the app to friends and family as well as links posted on various social media platforms.
 
-   * As of submitting my project 4, I have contacted Streamlit for information regarding testing the code, as previous projects I used Python Tutor, and was unable to use it diuring this time.
+   * As of submitting my project 4, I have contacted Streamlit through [email](assets/images/Email from streamlit.png) for information regarding testing the code, as previous projects I used Python Tutor, and was unable to use it during this time.
 ___
 Research And Credits:
 --- 
