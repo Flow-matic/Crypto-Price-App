@@ -154,7 +154,7 @@ ___
 Research And Credits:
 --- 
 
-* [Streamlit](https://streamlit.io/) A faster way to build and deploy data apps.
+* [Streamlit](https://streamlit.io/) A faster way to build and deploy data apps, and for the code to my project 4.
 
 * [Stack Overflow](https://stackoverflow.com/) solving other issues along the way to achieving the end result.
 
