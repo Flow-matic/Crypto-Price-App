@@ -248,6 +248,6 @@ ___
 ---
 “Life is a game,
 you live so you play.
-Follow your dreams and win what your happy heart desires.
+Follow your dreams and win what your happy heart desires. 🙏🏻
 
 
